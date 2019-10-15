@@ -1,0 +1,22 @@
+{
+  "name": "small-loadash",
+  "version": "0.0.6",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository":{
+    "type":"git",
+    "url":""
+  },
+  "keywords": [
+    "test",
+    "gp-15"
+  ],
+  "author": "jiax1608089979",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
