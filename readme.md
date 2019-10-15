@@ -1,4 +1,4 @@
-这是用来测试的
+这是在dev下用git生成的
 ```
 const zh=require('../index');
 console.log(zh([1,2,3,4,5,6],2))
